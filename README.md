@@ -185,7 +185,7 @@ DalScooter/
 
 ## 📄 License
 
-This project is part of CSCI 5410 - Serverless Computing coursework at Dalhousie University.
+This project is part of CSCI 5410 - Serverless Data Processing coursework at Dalhousie University.
 
 ---
 
