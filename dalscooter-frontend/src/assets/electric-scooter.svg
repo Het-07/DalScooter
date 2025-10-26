@@ -1,0 +1,31 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Electric scooter representation -->
+  <!-- Deck -->
+  <rect x="120" y="130" width="80" height="12" rx="6" fill="#333"/>
+  <!-- Stem -->
+  <line x1="200" y1="130" x2="240" y2="60" stroke="#333" stroke-width="8"/>
+  <!-- Handlebars -->
+  <line x1="220" y1="50" x2="260" y2="50" stroke="#333" stroke-width="6"/>
+  <!-- Handle grips -->
+  <circle cx="220" cy="50" r="4" fill="#E7F133"/>
+  <circle cx="260" cy="50" r="4" fill="#E7F133"/>
+  <!-- Front wheel -->
+  <circle cx="220" cy="150" r="18" fill="#333" stroke="#666" stroke-width="2"/>
+  <circle cx="220" cy="150" r="8" fill="#E7F133"/>
+  <!-- Rear wheel -->
+  <circle cx="120" cy="150" r="18" fill="#333" stroke="#666" stroke-width="2"/>
+  <circle cx="120" cy="150" r="8" fill="#E7F133"/>
+  <!-- Motor housing -->
+  <rect x="110" y="140" width="20" height="20" rx="10" fill="#444"/>
+  <!-- Battery indicator -->
+  <rect x="140" y="125" width="40" height="6" rx="3" fill="#E7F133"/>
+  <!-- Brake cable -->
+  <path d="M240 60 Q230 80 200 130" stroke="#666" stroke-width="2" fill="none"/>
+  <!-- Footboard pattern -->
+  <rect x="130" y="133" width="3" height="6" fill="#666"/>
+  <rect x="140" y="133" width="3" height="6" fill="#666"/>
+  <rect x="150" y="133" width="3" height="6" fill="#666"/>
+  <rect x="160" y="133" width="3" height="6" fill="#666"/>
+  <rect x="170" y="133" width="3" height="6" fill="#666"/>
+  <rect x="180" y="133" width="3" height="6" fill="#666"/>
+</svg>

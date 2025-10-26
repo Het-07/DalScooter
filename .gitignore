@@ -1,0 +1,54 @@
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.sw?
+*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+# .env
+.venv/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# .sh
+aws_cli.sh
+*.zip
+
+dalscooter-infrastructure/lambda_functions/build
+dalscooter-infrastructure/lambda_functions/layers/*/python/
+dalscooter-infrastructure/lambda_functions/layers/*/*.zip
+dalscooter-frontend/package-lock.json
