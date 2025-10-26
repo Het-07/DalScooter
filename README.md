@@ -104,22 +104,22 @@ terraform apply
 
 ```
 DalScooter/
-├── 📱 dalscooter-frontend/          # React application
+├── dalscooter-frontend/
 │   ├── src/
-│   │   ├── components/              # Reusable UI components
-│   │   ├── pages/                   # Application pages
-│   │   ├── services/                # API services
-│   │   └── context/                 # React context
-│   └── public/                      # Static assets
-├── ☁️ dalscooter-infrastructure/     # AWS Infrastructure
-│   ├── lambda_functions/            # 25+ Lambda functions
-│   │   ├── authentication/          # Auth services
-│   │   ├── bikes/                   # Bike management
-│   │   ├── bookings/                # Booking system
-│   │   ├── admin/                   # Admin features
-│   │   └── feedback/                # User feedback
-│   └── modules/                     # Terraform modules
-└── 🧪 test/                         # Testing scripts
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   └── context/
+│   └── public/
+├── dalscooter-infrastructure/
+│   ├── lambda_functions/
+│   │   ├── authentication/
+│   │   ├── bikes/
+│   │   ├── bookings/
+│   │   ├── admin/
+│   │   └── feedback/
+│   └── modules/
+└── test/
 ```
 
 ## 🛠️ Technology Stack
@@ -185,7 +185,7 @@ DalScooter/
 
 ## 📄 License
 
-This project is part of CSCI 5410 - Serverless Computing coursework at Dalhousie University.
+This project is part of CSCI 5410 - Serverless Data Processing coursework at Dalhousie University.
 
 ---
 
