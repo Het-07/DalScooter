@@ -7,7 +7,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
-_A modern, cloud-native bike sharing solution built with React & AWS serverless architecture_
+_A modern, serverless multi-cloud bike rental platform using AWS and GCP integration with ReactJS as frontend with Tailwind CSS, architected to support 10,000+ concurrent user sessions with real-time processing._
 
 </div>
 
